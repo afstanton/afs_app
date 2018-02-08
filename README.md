@@ -24,7 +24,7 @@ Or install it yourself as:
 
 There's no real "usage" unique to this gem yet. Consult the docs for the gems that it brings in.
 
-[haml](https://github.com/haml/haml)  
+[haml-rails](https://github.com/indirect/haml-rails)  
 
 ## Development
 
